@@ -1,0 +1,52 @@
+Overview
+To help us understand a little more about your technical abilities and how you work, we’d like to set you a little challenge.
+
+As you know, we help our clients run their production systems by providing a managed operations service. We work with some amazing partners and products and we’d love to see how you work these tools. Today, we want you to build a cloud infrastructure, deploy an application and monitor the application.
+
+We want you to deploy our “Spark” Demo Application into a Cloud Environment. To do this, we’d like you to do the following;
+
+1.	Understand the application hosting requirements
+2.	Build an application infrastructure to run the app
+3.	Deploy the application to that infrastructure (optional)
+4.	Run the application (prove it works)
+Monitor the application
+
+¬¬¬Our Products and Systems
+1 Source Control
+We use GitHub as a source control environment. 
+The clone URL for this project is https://github.com/devopsguys/Spark.git. 
+You will need a GitHub user account. Please create one if you don’t have one already. 
+
+2 Infrastructure as Code
+We like to keep everything as code, including infrastructure. We would like to see what infrastructure you would code for our Spark application
+
+3 Application Monitoring (optional)
+We use AppDynamics to provide deep insight into applications. You can download it at; 
+https://www.appdynamics.com/lite/ 
+
+4 Infrastructure Monitoring
+We have our preferred tools, but let’s see what you like. We want you to pick your own infrastructure monitoring tool. We’ll be looking for CPU, Memory and Disk Utilisation metrics as a minimum.
+
+5 JetBrains TeamCity (optional)
+TeamCity is our Continuous integration server of choice. A server has been provisioned if you choose to use it
+
+6 Octopus Deploy (optional)
+We handle Microsoft application deployment using Octopus Deploy. A server has been provisioned if you choose to use it
+
+6 Run-Time Environment
+We use many different cloud environments to host our applications. For this project, we want you to use the Azure Public Cloud.
+You can access the Azure Cloud Environment using the following information;
+
+•	https://portal.azure.com/ 
+•	Username: techtest.user2@devopsguystest.onmicrosoft.com
+•	Password: Uf^#yUVQmM!3
+
+Teamcity: 
+•	http://dog-techtest-user2-rg.eastus.cloudapp.azure.com:8111
+•	Username: techtest 
+•	Password: Uf^#yUVQmM!3
+
+Octopus Deploy: 
+•	http://dog-techtest-user2-rg.eastus.cloudapp.azure.com:8080
+•	Username: techtest 
+•	Password: Uf^#yUVQmM!3
